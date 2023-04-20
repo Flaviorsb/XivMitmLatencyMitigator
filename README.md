@@ -64,7 +64,7 @@ If you're running Windows, you can use [XivAlexander addon](https://github.com/S
 10. Configure your gaming device to use the virtual machine to route game traffic, replacing `<vm_ip>` with the equivalent of `192.168.0.5` on above output.
     * **Windows**: Run a `Command Prompt` as Administrator, and then run the following.
       ```
-      route add 204.2.229.0 mask 255.255.255.0 <vm_ip>
+      route add 204.2.29.0 mask 255.255.255.0 <vm_ip>
       route add 124.150.157.0 mask 255.255.255.0 <vm_ip>
       route add 183.111.189.0 mask 255.255.255.0 <vm_ip>
       route add 195.82.50.0 mask 255.255.255.0 <vm_ip>
