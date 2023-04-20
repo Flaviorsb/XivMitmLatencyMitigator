@@ -71,7 +71,7 @@ If you're running Windows, you can use [XivAlexander addon](https://github.com/S
       ```
     * **Mac**: Run a `Terminal`, and the run the following.
       ```
-      sudo route -n add -net 204.2.229.0/24 <vm_ip>
+      sudo route -n add -net 204.2.29.0/24 <vm_ip>
       sudo route -n add -net 124.150.157.0/24 <vm_ip>
       sudo route -n add -net 183.111.189.0/24 <vm_ip>
       sudo route -n add -net 195.82.50.0/24 <vm_ip>
